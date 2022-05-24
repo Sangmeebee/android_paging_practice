@@ -1,4 +1,4 @@
-package com.sangmee.pagingpractice
+package com.sangmee.pagingpractice.ui
 
 import android.os.Bundle
 import androidx.activity.ComponentActivity
